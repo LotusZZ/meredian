@@ -1,3 +1,11 @@
+Update v2.2.4.2|
+<color=red>Tech update</color>
+News list fix (you can see it right now) :)
+Login and password now store in client folder
+(now if you change server or client,
+you dont need write login and passwd every time)
+||||
+!
 Update v2.2.4.1|
 <color=red>Fixed</color>
 Camera for all new poses.
