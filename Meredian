@@ -1,9 +1,18 @@
 Update v2.2.4.2|
+<color=green>En</color>
 <color=red>Tech update</color>
 News list fix (you can see it right now) :)
 Login and password now store in client folder
 (now if you change server or client,
 you dont need write login and passwd every time)
+
+<color=green>Ru</color>
+<color=red>Техническое обновление</color>
+Исправили список новостей (как вы можете заметить):)
+Логин и пароль теперь лежат в папке игры.
+(Если вы играете на нескольких серверах,
+вам больше не надо каждый раз вводить свои данные заходя на Мередиан.)
+
 ||||
 !
 Update v2.2.4.1|
