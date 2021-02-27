@@ -7,12 +7,18 @@ Added new afk system
 write "/afk" in the chat and your character will automatically reply to the message
 also write "/afk msg" and you will set afk msg.
 
+<color=green>Small update</color>
+Chat message length limit doubled
+
 <color=green>Ru</color>
 <color=green>Обновление</color>
 Теперь Мужчины и Женщины имет одинаковое количество танцев.
 Добавлен режим /afk , ваш персонаж автоматически ответит людям что вы афк.
 Напишите в чате "/afk" если собираетесь уйти от компьютера.
 "/afk сообщение" установит текст для ответа написавшим вам людям.
+
+<color=green>Small update</color>
+Длинна сообщения в чате увеличена в два раза.
 ||||
 
 !
