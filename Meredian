@@ -8,7 +8,7 @@ DJ Party, Events, Vechile, Lot Gifts (Color nickname, gold, slot etc)... We wait
 <color=yellow>Вечеринка</color>
 Сервер DJ вечеринка - На Love Island
 27 Июнь - 19:00 CEST
-Диджеи, Ивеннты, Транспорт, Много подарков (Цветоний ник, монеты, слоты)... Мы ждем тебя
+Диджеи, Ивенты, Транспорт, Много подарков (Цветной ник, монеты, слоты)... Мы ждем тебя
 |https://attachments.f95zone.to/2021/06/1283392_Event.png|||
 !
 Update|
@@ -56,19 +56,6 @@ We are working on client right now. You have downloaded technical update and new
 <color=green>Обновление</color>
 В данный момент идут работы над клиентом, вы скачали технический апдейт, в ближайшее время будут добавлены новые вещи и позы.
 !
-Update|
-<color=blue>En</color>
-<color=blue>Update</color>
-New 9 Building block.
-+3 new clothes for man and woman
-
-<color=blue>Ru</color>
-<color=blue>Обновление</color>
-+9 строительных блоков
-+3 новой одежды для мужчин и женщин
-|https://cdn.filesend.jp/image/4BkktvtFBlehMEareyY5MVZpbr4kLcU_QIxrmKvnI2_GZCbT6DG5SCRLuLKKEiMQ/0b652d0aea672dcde184b63ba94880e7cfb3dd9a|||
-
-!
 
 Look for Designer|
 <color=green>En</color>
@@ -82,145 +69,3 @@ We are looking for designers for 3D and 2D modeling. To create 2D textures (Tatt
 
 !
 
-Update v2.2.8.0|
-<color=green>En</color>
-<color=green>Cinema update</color>
-Home theaters have arrived in Meridian. 
-(TV screen size and resolution increase)
-
-<color=green>Ru</color>
-<color=green>Обновление</color>
-Домашние кинотеатры прибыли на просторы мередиана, экран телевизора во включенном состоянии увеличен в 8 раз.
-Соберите друзей и не только, для просмотра фильмов в хорошем качестве и ламповой атмосфере :)
-||||
-
-!
-Update v2.2.7.0|
-<color=green>En</color>
-<color=green>Update</color>
-New 2D Update
-7 new tattoo
-5 new face tattoo
-15 new woman eyebrows
-28 new print
-Thank to: Stag(Elk), Cherry, Sytry, Hakon
-5 new female items.
-
-<color=green>Ru</color>
-<color=green>Обновление</color>
-7 новых тату
-5 новых тату для лица
-15 новых вариантов бров
-ей для девушек
-28 новых принтов
-Спасибо: Stag(Elk), Cherry, Sytry, Hakon
-5 новых вещей для девушек
-||||
-
-!
-
-Update v2.2.6.0|
-<color=green>En</color>
-<color=green>Update</color>
-9 new poses.
-Sperm is no longer washed off when moving between locations.
-To clean your face push button on left top.
-
-<color=green>Ru</color>
-<color=green>Обновление</color>
-Добавлены 9 новых поз.
-Следы секса больше не смываються при переходе между локациями
-Если вам испачкали лицо или тело, вам надо нажать кнопку слева вверху экрана.
-||||
-
-!
-
-Update v2.2.5.1|
-<color=green>En</color>
-<color=green>Update</color>
-now female and male have same dances
-26 for both side
-Added new afk system
-write "/afk" in the chat and your character will automatically reply to the message
-also write "/afk msg" and you will set afk msg.
-
-<color=green>Small update</color>
-Chat message length limit doubled
-
-<color=green>Ru</color>
-<color=green>Обновление</color>
-Теперь Мужчины и Женщины имет одинаковое количество танцев.
-Добавлен режим /afk , ваш персонаж автоматически ответит людям что вы афк.
-Напишите в чате "/afk" если собираетесь уйти от компьютера.
-"/afk сообщение" установит текст для ответа написавшим вам людям.
-
-<color=green>Small update</color>
-Длинна сообщения в чате увеличена в два раза.
-||||
-
-!
-Update v2.2.5.0|
-<color=green>En</color>
-<color=green>Update</color>
-
-9 new woman hair
-5 new man hair
-7 new poses
-Delete characters now takes 24hrs
-Small shader fix for horns, collars and mask
-
-<color=green>Ru</color>
-<color=green>Обновление</color>
-
-9 новых женских причесок
-5 новых мужских причесок
-7 новых поз
-Удаление персонажа теперь занимает 24 часа.
-Небольшие фиксы шейдеров на некоторых вещах
-(рога/маски/ошейки)
-
-|http://meredian.in/img/update_2250.jpg|||
-
-!
-Update v2.2.4.2|
-<color=green>En</color>
-<color=red>Tech update</color>
-News list fix (you can see it right now) :)
-Login and password now store in client folder
-(now if you change server or client,
-you dont need write login and passwd every time)
-
-<color=green>Ru</color>
-<color=red>Техническое обновление</color>
-Исправили список новостей (как вы можете заметить):)
-Логин и пароль теперь лежат в папке игры.
-(Если вы играете на нескольких серверах,
-вам больше не надо каждый раз вводить свои данные заходя на Мередиан.)
-
-||||
-!
-Update v2.2.4.1|
-<color=red>Fixed</color>
-Camera for all new poses.
-Camera for old poses.
-Now low quality shadows
-turn off all shadows.
-Reworked shadow rendering range.
-Temporarily disabled dynamic weather.
-||||
-!
-Update v2.2.4.0|
-<color=green>New Update</color>
-
--23 new Pose.
-- Poses for Bar Chair added.
-- Poses for wall (Glory Holy) added
--Dynamic Light and Sky.
--Fixed Pose Cameras.
--Limiter for delete and rename characters.
--Now it's takes 1hr.
-||
-!
-Update|New Update 40 new Pose.|https://forum.meredian.in/Forrelisepicture1.jpg|
-!
-Update|New Update 40 new Pose.|https://forum.meredian.in/Forrelisepicture1.jpg|
